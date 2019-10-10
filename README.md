@@ -9,3 +9,13 @@ On stava, "+" sign and "Add manual entry". Select file and upload your file as a
 Find uploaded activity, select "..." and choose option "Create route"
 
 Delete fake activity and enjoy your new route :-)
+
+
+
+Pro uzivatele mapy.cz: Zkonvertovany gpx soubor funguje i pro seznam mapy.cz. 
+
+Stahnete gpx soubor z vamy zvoleneho zdroje
+
+spustte toStava.sh <cesta_k_vasemu_souboru>
+
+na mapy.cz postupujte podle navodu https://napoveda.seznam.cz/cz/mapy/prace-s-mapou/import-stopy-gpx/
