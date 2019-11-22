@@ -1,6 +1,6 @@
 How to create route from walkhighlands gpx:
 
-Download you file from this amazing guys: https://www.walkhighlands.co.uk/
+Download your file from this amazing guys: https://www.walkhighlands.co.uk/
 
 Execute toStrava.sh <path_to_your_downloaded_gpx>
 
@@ -14,7 +14,7 @@ Delete fake activity and enjoy your new route :-)
 
 Pro uzivatele mapy.cz: Zkonvertovany gpx soubor funguje i pro seznam mapy.cz. 
 
-Stahnete gpx soubor z vamy zvoleneho zdroje
+Stahnete gpx soubor z vami zvoleneho zdroje
 
 spustte toStava.sh <cesta_k_vasemu_souboru>
 
